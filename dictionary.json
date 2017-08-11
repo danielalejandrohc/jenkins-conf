@@ -1,0 +1,20 @@
+[
+  {
+    "buildNumber": "0",
+    "lock": "false",
+    "tag": "dbaix",
+    "configurationFile": "path/someFile.properties"
+  },
+  {
+    "buildNumber": "0",
+    "lock": "false",
+    "tag": "dbaix",
+    "configurationFile": "path/someFile.properties"
+  },
+  {
+    "buildNumber": "0",
+    "lock": "false",
+    "tag": "dbaix",
+    "configurationFile": "path/someFile.properties"
+  }
+]
