@@ -1,18 +1,18 @@
 [
   {
-    "buildNumber": "0",
+    "buildNumber": "1",
     "lock": "false",
     "tag": "dbaix",
     "configurationFile": "path/someFile.properties"
   },
   {
-    "buildNumber": "0",
+    "buildNumber": "2",
     "lock": "false",
     "tag": "dbaix",
     "configurationFile": "path/someFile.properties"
   },
   {
-    "buildNumber": "0",
+    "buildNumber": "3",
     "lock": "false",
     "tag": "dbaix",
     "configurationFile": "path/someFile.properties"
