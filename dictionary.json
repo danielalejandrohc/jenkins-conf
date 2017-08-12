@@ -1,7 +1,7 @@
 [
   {
     "buildNumber": "1",
-    "lock": "false",
+    "lock": "true",
     "tag": "dbaix",
     "configurationFile": "path/someFile.properties"
   },
@@ -13,7 +13,7 @@
   },
   {
     "buildNumber": "3",
-    "lock": "false",
+    "lock": "true",
     "tag": "dbaix",
     "configurationFile": "path/someFile.properties"
   }
