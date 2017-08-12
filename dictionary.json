@@ -9,7 +9,7 @@
    {  
       "id": "2",
       "buildNumber":"4234",
-      "lock":"true",
+      "lock":"false",
       "tag":"dbaix",
       "configurationFile":"path/someFile.properties"
    },
