@@ -1,1 +1,23 @@
-[{"buildNumber":{"bytes":[55,57],"strings":["",""],"valueCount":1,"values":["79"]},"lock":"true","tag":"dbaix","configurationFile":"path/someFile.properties"},{"buildNumber":"2222222","lock":"true","tag":"dbaix","configurationFile":"path/someFile.properties"},{"buildNumber":"2222222","lock":"true","tag":"dbaix","configurationFile":"path/someFile.properties"}]
+[  
+   {  
+      "id": "1",
+      "buildNumber": "213123",
+      "lock":"true",
+      "tag":"dbaix",
+      "configurationFile":"path/someFile.properties"
+   },
+   {  
+      "id": "2",
+      "buildNumber":"4234",
+      "lock":"true",
+      "tag":"dbaix",
+      "configurationFile":"path/someFile.properties"
+   },
+   {  
+      "id": "3",
+      "buildNumber":"2222222",
+      "lock":"true",
+      "tag":"dbaix",
+      "configurationFile":"path/someFile.properties"
+   }
+]
